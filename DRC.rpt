@@ -1,0 +1,134 @@
+** Drc report for TI_MSP_DevKit.kicad_pcb **
+** Created on 2026-03-20T16:41:17+0530 **
+
+** Found 31 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.0500 mm)
+    Rule: netclass 'Default'; error
+    @(149.9000 mm, 97.6000 mm): Via [PA7] on F.Cu - B.Cu
+    @(149.4000 mm, 96.0000 mm): Track [/HFXOUT] on F.Cu, length 3.5500 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1190 mm)
+    Rule: netclass 'Default'; error
+    @(140.0000 mm, 98.1000 mm): Via [GND] on F.Cu - B.Cu
+    @(139.8000 mm, 97.6000 mm): Track [PA7] on B.Cu, length 13.0108 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1240 mm)
+    Rule: netclass 'Default'; error
+    @(140.0000 mm, 98.1000 mm): Via [GND] on F.Cu - B.Cu
+    @(149.9000 mm, 97.6000 mm): Track [PA7] on B.Cu, length 10.1000 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1240 mm)
+    Rule: netclass 'Default'; error
+    @(149.4000 mm, 93.5000 mm): Track [GND] on F.Cu, length 1.7000 mm
+    @(150.6163 mm, 94.0000 mm): Via [PA3] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1211 mm)
+    Rule: netclass 'Default'; error
+    @(156.1000 mm, 94.2000 mm): Via [PA13] on F.Cu - B.Cu
+    @(155.7000 mm, 93.6000 mm): Via [PA14] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.0538 mm)
+    Rule: netclass 'Default'; error
+    @(151.9565 mm, 98.9560 mm): Track [/UART0RTS] on F.Cu, length 0.8400 mm
+    @(151.3000 mm, 98.9000 mm): Via [PB3] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.0904 mm)
+    Rule: board setup constraints hole; error
+    @(169.4000 mm, 95.7000 mm): Via [GND] on F.Cu - B.Cu
+    @(167.8000 mm, 96.0000 mm): NPTH pad of J2
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.2159 mm)
+    Rule: board setup constraints hole; error
+    @(169.6000 mm, 93.5000 mm): Via [GND] on F.Cu - B.Cu
+    @(169.7050 mm, 92.4440 mm): NPTH pad of J2
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1363 mm)
+    Rule: board setup constraints hole; error
+    @(169.6000 mm, 93.5000 mm): Via [GND] on F.Cu - B.Cu
+    @(169.7050 mm, 94.4760 mm): NPTH pad of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1240 mm)
+    Rule: netclass 'Default'; error
+    @(140.1000 mm, 103.1000 mm): Track [PB3] on B.Cu, length 4.7000 mm
+    @(139.9000 mm, 102.6000 mm): Via [GND] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1122 mm)
+    Rule: netclass 'Default'; error
+    @(151.0000 mm, 94.6000 mm): Via [PA4] on F.Cu - B.Cu
+    @(150.6163 mm, 94.0000 mm): Via [PA3] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.0550 mm)
+    Rule: netclass 'Default'; error
+    @(150.1000 mm, 98.5000 mm): Via [PB2] on F.Cu - B.Cu
+    @(151.2690 mm, 98.9310 mm): Track [PB3] on B.Cu, length 4.5000 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(137.4500 mm, 92.7500 mm): Pad 1 [/USBD+] of U2 on F.Cu
+    @(137.4500 mm, 93.2500 mm): Pad 2 [/USBD-] of U2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(137.4500 mm, 93.2500 mm): Pad 2 [/USBD-] of U2 on F.Cu
+    @(137.4500 mm, 93.7500 mm): Pad 3 [GND] of U2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(137.4500 mm, 93.7500 mm): Pad 3 [GND] of U2 on F.Cu
+    @(137.4500 mm, 94.2500 mm): Pad 4 [/UART0CTS] of U2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(137.4500 mm, 94.2500 mm): Pad 4 [/UART0CTS] of U2 on F.Cu
+    @(137.4500 mm, 94.7500 mm): Pad 5 [/UART0RTS] of U2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(141.6750 mm, 94.7500 mm): Pad 6 [unconnected-(U2-TNOW-Pad6)] of U2 on F.Cu
+    @(141.6750 mm, 94.2500 mm): Pad 7 [+3V3] of U2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(141.6750 mm, 94.2500 mm): Pad 7 [+3V3] of U2 on F.Cu
+    @(141.6750 mm, 93.7500 mm): Pad 8 [/UART0RX] of U2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(141.6750 mm, 93.7500 mm): Pad 8 [/UART0RX] of U2 on F.Cu
+    @(141.6750 mm, 93.2500 mm): Pad 9 [/UART0TX] of U2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(141.6750 mm, 93.2500 mm): Pad 9 [/UART0TX] of U2 on F.Cu
+    @(141.6750 mm, 92.7500 mm): Pad 10 [+3V3] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(120.6425 mm, 91.5200 mm): NPTH pad of J1
+    @(121.7175 mm, 91.2100 mm): Pad A1 [GND] of J1 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(120.6425 mm, 91.5200 mm): NPTH pad of J1
+    @(121.7175 mm, 91.2100 mm): Pad B12 [GND] of J1 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(120.6425 mm, 97.3000 mm): NPTH pad of J1
+    @(121.7175 mm, 97.6100 mm): Pad A12 [GND] of J1 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(120.6425 mm, 97.3000 mm): NPTH pad of J1
+    @(121.7175 mm, 97.6100 mm): Pad B1 [GND] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(153.4500 mm, 103.7250 mm): Pad 1 [I2C0SCL] of U4 on F.Cu
+    @(153.4500 mm, 104.0750 mm): Pad 2 [I2C0SDA] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(153.4500 mm, 104.0750 mm): Pad 2 [I2C0SDA] of U4 on F.Cu
+    @(153.4500 mm, 104.4250 mm): Pad 3 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(153.4500 mm, 104.4250 mm): Pad 3 [GND] of U4 on F.Cu
+    @(153.4500 mm, 104.7750 mm): Pad 4 [+3V3] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(153.8625 mm, 105.0125 mm): Pad 5 [/INT2] of U4 on F.Cu
+    @(154.2125 mm, 105.0125 mm): Pad 6 [/INT1] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(154.2125 mm, 105.0125 mm): Pad 6 [/INT1] of U4 on F.Cu
+    @(154.5625 mm, 105.0125 mm): Pad 7 [+3V3] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(154.9750 mm, 104.7750 mm): Pad 8 [+3V3] of U4 on F.Cu
+    @(154.9750 mm, 104.4250 mm): Pad 9 [GND] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1520 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(154.9750 mm, 104.4250 mm): Pad 9 [GND] of U4 on F.Cu
+    @(154.9750 mm, 104.0750 mm): Pad 10 [Net-(U4-GND-Pad10)] of U4 on F.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

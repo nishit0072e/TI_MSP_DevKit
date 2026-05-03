@@ -1,0 +1,44 @@
+### Footprint positions - created on 2026-03-21T13:31:29+0530 ###
+### Printed by KiCad version 9.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                                       PosX       PosY       Rot  Side
+BLS       SW_SPST                      SW_SPST_B3U-1000P                                          17.5355     6.9000    0.0000  top
+C1        470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                12.6355    21.9500   90.0000  top
+C2        470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                14.6355    21.9500   90.0000  top
+C3        10U                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                22.0980    24.3500   90.0000  top
+C4        470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                25.5980    21.8500  180.0000  top
+C5        10U                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                29.0980    24.3500  -90.0000  top
+C6        470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                25.5980    14.8500  180.0000  top
+C7        470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                25.5980    19.8500  180.0000  top
+C8        15p                          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                27.5980     9.8500   90.0000  top
+C9        15p                          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                34.5980     9.8500  -90.0000  top
+C10       470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                40.0980    23.8500  180.0000  top
+C11       10U                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                32.5980    17.3500  -90.0000  top
+C12       470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                35.5980    23.8500  180.0000  top
+C13       470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                42.4855     7.3500   90.0000  top
+C14       470n                         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                48.0980    15.3500   90.0000  top
+D1        USBLC6-2SC6                  SOT-23-6                                                   13.6355    16.9500    0.0000  top
+FID1      Fiducial                     Fiducial_1mm_Mask2mm                                       11.0355    26.1000    0.0000  top
+FID2      Fiducial                     Fiducial_1mm_Mask2mm                                        9.7980     7.4500    0.0000  top
+FID3      Fiducial                     Fiducial_1mm_Mask2mm                                       48.1355     6.8000    0.0000  top
+J1        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal     4.0730    16.6900  -90.0000  top
+J3        Conn_01x15_Socket            PinSocket_1x15_P2.54mm_Vertical                            45.6355    29.5000  -90.0000  top
+J4        Conn_01x15_Socket            PinSocket_1x15_P2.54mm_Vertical                            10.1955     3.0000   90.0000  top
+J5        Conn_01x05_Pin               PinSocket_1x05_P2.54mm_Vertical                            53.6355    21.9800    0.0000  top
+PWR       LED                          LED_0603_1608Metric                                        31.7980    25.9500   90.0000  top
+R1        0R                           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                13.6355    19.4500    0.0000  top
+R2        5K1                          R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                 9.1355    10.4500    0.0000  top
+R3        5K1                          R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                 8.6355    23.4500    0.0000  top
+R4        100K                         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                32.0980    14.3500  180.0000  top
+R5        0R                           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                40.0980    25.3500  180.0000  top
+R6        5K1                          R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                41.4855     9.8500  180.0000  top
+R7        5K1                          R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                37.9855     9.8500    0.0000  top
+R8        5K1                          R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                46.5980    15.3500  -90.0000  top
+RST       SW_SPST                      SW_SPST_B3U-1000P                                          49.0355    10.8000    0.0000  top
+U1        SPX3819M5-L-3-3              SOT-23-5                                                   25.5980    24.3500    0.0000  top
+U2        CH340E                       MSOP-10_3x3mm_P0.5mm                                       25.5980    17.3500    0.0000  top
+U3        MSPM0G3507SPTR               LQFP-48_7x7mm_P0.5mm                                       39.5980    17.8500    0.0000  top
+U4        LIS2DH                       LGA-14_2x2mm_P0.35mm_LayoutBorder3x4y                      40.2480     6.8500    0.0000  top
+X1        8MHz                         Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering              31.0980     9.8500    0.0000  top
+## End

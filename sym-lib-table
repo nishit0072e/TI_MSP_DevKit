@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MSPM0_tut")(type "KiCad")(uri "${KIPRJMOD}/MSPM0_tut.kicad_sym")(options "")(descr ""))
+)
